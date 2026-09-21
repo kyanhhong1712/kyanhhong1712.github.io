@@ -28,7 +28,7 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | … | … | … | …/…/… |
+| 1 | NXB Chính Trị Quốc Gia|Nhân viên IT (Toàn diện) |  | …/…/… |
 | 2 | … | … | … | …/…/… |
 | 3 | … | … | … | …/…/… |
 
